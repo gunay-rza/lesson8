@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./pexels-photo-586687.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+h1 {
+    color: white;
+    text-align: justify;
+    margin-left: 40px;
+}
+
+.t {
+    color: yellow;
+    font-size: 50px;
+    ;
+}
+
+.metn {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.metn1 {
+    color: white;
+    text-align: right;
+    word-spacing: 50px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+.tinker {
+    color: orange;
+}
+
+.html {
+    color: aqua;
+}
+
+.temp {
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 40px;
+
+}
+
+.box {
+    margin: 300px;
+}
+
+h3 {
+    color: black;
+    background-color: white;
+    width: 200px;
+    height: 60px;
+    border: 1px;
+    border-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 30px;
+    margin-bottom: 300px;
+
+}
